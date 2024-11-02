@@ -1,0 +1,117 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="24.8.3">
+  <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
+    <mxGraphModel dx="5256" dy="2484" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+      <root>
+        <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
+        <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-1" value="Reg. vasarlo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-71" y="125" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-6" value="Vasarlo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="231" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-VP32xDcSpPoYDkkCGI-7" target="U-VP32xDcSpPoYDkkCGI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U-VP32xDcSpPoYDkkCGI-7" target="U-VP32xDcSpPoYDkkCGI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="U-VP32xDcSpPoYDkkCGI-7" target="U-VP32xDcSpPoYDkkCGI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" target="U-VP32xDcSpPoYDkkCGI-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-41" y="387" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-7" value="Uj vasarlo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-71" y="357" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;rounded=0;imageAspect=0;" vertex="1" parent="1">
+          <mxGeometry x="29" y="64" width="509" height="509" as="geometry" />
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-9" value="Hardvershop" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="42" y="74" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-10" value="Termékek megtekintése" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="111" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-11" value="Rendelés leadása" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="233" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-12" value="Fizetés" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="347" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-13" value="Regisztráció" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="479" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U-VP32xDcSpPoYDkkCGI-1" target="U-VP32xDcSpPoYDkkCGI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="U-VP32xDcSpPoYDkkCGI-1" target="U-VP32xDcSpPoYDkkCGI-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="388" y="375" as="sourcePoint" />
+            <mxPoint x="438" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.001;entryY=0.547;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;entryPerimeter=0;" edge="1" parent="1" target="U-VP32xDcSpPoYDkkCGI-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-54" y="154" as="sourcePoint" />
+            <mxPoint x="225" y="283" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="U-VP32xDcSpPoYDkkCGI-11" target="U-VP32xDcSpPoYDkkCGI-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="291" y="259" as="sourcePoint" />
+            <mxPoint x="341" y="209" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="U-VP32xDcSpPoYDkkCGI-11" target="U-VP32xDcSpPoYDkkCGI-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="321" y="355" as="sourcePoint" />
+            <mxPoint x="321" y="313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-25" value="Autentikáció" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="737" y="104" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="U-VP32xDcSpPoYDkkCGI-25" target="U-VP32xDcSpPoYDkkCGI-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="587" y="336" as="sourcePoint" />
+            <mxPoint x="637" y="286" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" target="U-VP32xDcSpPoYDkkCGI-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="735" y="148" as="sourcePoint" />
+            <mxPoint x="345" y="529" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" target="U-VP32xDcSpPoYDkkCGI-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="736" y="150" as="sourcePoint" />
+            <mxPoint x="297" y="214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-29" value="OnlineFizezés" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="737" y="357" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-30" value="PayPal" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="737" y="489" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-31" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#b0e3e6;strokeColor=#0e8088;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="U-VP32xDcSpPoYDkkCGI-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="762" y="202" as="sourcePoint" />
+            <mxPoint x="338" y="386" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-VP32xDcSpPoYDkkCGI-32" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#bac8d3;strokeColor=#23445d;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="U-VP32xDcSpPoYDkkCGI-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="405" as="sourcePoint" />
+            <mxPoint x="340" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
