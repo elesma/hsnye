@@ -1,0 +1,101 @@
+timeStamp;elapsed;label;responseCode;responseMessage;threadName;dataType;success;failureMessage;bytes;sentBytes;grpThreads;allThreads;URL;Latency;IdleTime;Connect;;;
+1,73E+12;209;HTTP;Request;200;OK;Thread;Group;02.jan;text;true;1197;126;23;23;https://ptibeadando.eleshu.hu/;209;0;129;
+1,73E+12;216;HTTP;Request;200;OK;Thread;Group;01.jan;text;true;1197;126;22;22;https://ptibeadando.eleshu.hu/;216;0;132;
+1,73E+12;199;HTTP;Request;200;OK;Thread;Group;03.jan;text;true;1197;126;22;22;https://ptibeadando.eleshu.hu/;199;0;129;
+1,73E+12;204;HTTP;Request;200;OK;Thread;Group;07.jan;text;true;1197;126;23;23;https://ptibeadando.eleshu.hu/;204;0;128;
+1,73E+12;214;HTTP;Request;200;OK;Thread;Group;05.jan;text;true;1197;126;23;23;https://ptibeadando.eleshu.hu/;214;0;131;
+1,73E+12;208;HTTP;Request;200;OK;Thread;Group;08.jan;text;true;1197;126;23;23;https://ptibeadando.eleshu.hu/;208;0;128;
+1,73E+12;243;HTTP;Request;200;OK;Thread;Group;04.jan;text;true;1197;126;23;23;https://ptibeadando.eleshu.hu/;243;0;133;
+1,73E+12;238;HTTP;Request;200;OK;Thread;Group;09.jan;text;true;1197;126;25;25;https://ptibeadando.eleshu.hu/;238;0;141;
+1,73E+12;227;HTTP;Request;200;OK;Thread;Group;10.jan;text;true;1197;126;25;25;https://ptibeadando.eleshu.hu/;227;0;133;
+1,73E+12;254;HTTP;Request;200;OK;Thread;Group;06.jan;text;true;1197;126;23;23;https://ptibeadando.eleshu.hu/;254;0;147;
+1,73E+12;236;HTTP;Request;200;OK;Thread;Group;11.jan;text;true;1197;126;24;24;https://ptibeadando.eleshu.hu/;236;0;154;
+1,73E+12;239;HTTP;Request;200;OK;Thread;Group;12.jan;text;true;1197;126;24;24;https://ptibeadando.eleshu.hu/;239;0;148;
+1,73E+12;253;HTTP;Request;200;OK;Thread;Group;18.jan;text;true;1197;126;31;31;https://ptibeadando.eleshu.hu/;253;0;128;
+1,73E+12;272;HTTP;Request;200;OK;Thread;Group;17.jan;text;true;1197;126;31;31;https://ptibeadando.eleshu.hu/;272;0;144;
+1,73E+12;304;HTTP;Request;200;OK;Thread;Group;14.jan;text;true;1197;126;30;30;https://ptibeadando.eleshu.hu/;304;0;183;
+1,73E+12;376;HTTP;Request;200;OK;Thread;Group;13.jan;text;true;1197;126;37;37;https://ptibeadando.eleshu.hu/;376;0;194;
+1,73E+12;318;HTTP;Request;200;OK;Thread;Group;21.jan;text;true;1197;126;36;36;https://ptibeadando.eleshu.hu/;318;0;167;
+1,73E+12;334;HTTP;Request;200;OK;Thread;Group;19.jan;text;true;1197;126;36;36;https://ptibeadando.eleshu.hu/;334;0;169;
+1,73E+12;360;HTTP;Request;200;OK;Thread;Group;22.jan;text;true;1197;126;40;40;https://ptibeadando.eleshu.hu/;360;0;171;
+1,73E+12;327;HTTP;Request;200;OK;Thread;Group;27.jan;text;true;1197;126;40;40;https://ptibeadando.eleshu.hu/;327;0;196;
+1,73E+12;320;HTTP;Request;200;OK;Thread;Group;28.jan;text;true;1197;126;40;40;https://ptibeadando.eleshu.hu/;320;0;196;
+1,73E+12;316;HTTP;Request;200;OK;Thread;Group;29.jan;text;true;1197;126;39;39;https://ptibeadando.eleshu.hu/;316;0;192;
+1,73E+12;441;HTTP;Request;200;OK;Thread;Group;16.jan;text;true;1197;126;38;38;https://ptibeadando.eleshu.hu/;441;0;349;
+1,73E+12;342;HTTP;Request;200;OK;Thread;Group;24.jan;text;true;1197;126;37;37;https://ptibeadando.eleshu.hu/;342;0;212;
+1,73E+12;381;HTTP;Request;200;OK;Thread;Group;23.jan;text;true;1197;126;36;36;https://ptibeadando.eleshu.hu/;381;0;199;
+1,73E+12;339;HTTP;Request;200;OK;Thread;Group;25.jan;text;true;1197;126;35;35;https://ptibeadando.eleshu.hu/;338;0;171;
+1,73E+12;405;HTTP;Request;200;OK;Thread;Group;26.jan;text;true;1197;126;40;40;https://ptibeadando.eleshu.hu/;405;0;229;
+1,73E+12;396;HTTP;Request;200;OK;Thread;Group;1-33;text;true;1197;126;42;42;https://ptibeadando.eleshu.hu/;396;0;249;
+1,73E+12;406;HTTP;Request;200;OK;Thread;Group;1-32;text;true;1197;126;41;41;https://ptibeadando.eleshu.hu/;406;0;239;
+1,73E+12;425;HTTP;Request;200;OK;Thread;Group;30.jan;text;true;1197;126;40;40;https://ptibeadando.eleshu.hu/;424;0;251;
+1,73E+12;447;HTTP;Request;200;OK;Thread;Group;1-34;text;true;1197;126;43;43;https://ptibeadando.eleshu.hu/;447;0;269;
+1,73E+12;519;HTTP;Request;200;OK;Thread;Group;31.jan;text;true;1197;126;47;47;https://ptibeadando.eleshu.hu/;519;0;255;
+1,73E+12;673;HTTP;Request;200;OK;Thread;Group;20.jan;text;false;The operation lasted too long: It took 673 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;49;49;https://ptibeadando.eleshu.hu/;673;0;329
+1,73E+12;521;HTTP;Request;200;OK;Thread;Group;1-35;text;true;1197;126;50;50;https://ptibeadando.eleshu.hu/;521;0;313;
+1,73E+12;496;HTTP;Request;200;OK;Thread;Group;1-37;text;true;1197;126;50;50;https://ptibeadando.eleshu.hu/;496;0;287;
+1,73E+12;463;HTTP;Request;200;OK;Thread;Group;1-36;text;true;1197;126;49;49;https://ptibeadando.eleshu.hu/;463;0;270;
+1,73E+12;466;HTTP;Request;200;OK;Thread;Group;1-48;text;true;1197;126;58;58;https://ptibeadando.eleshu.hu/;466;0;259;
+1,73E+12;434;HTTP;Request;200;OK;Thread;Group;1-49;text;true;1197;126;57;57;https://ptibeadando.eleshu.hu/;434;0;257;
+1,73E+12;579;HTTP;Request;200;OK;Thread;Group;1-41;text;true;1197;126;60;60;https://ptibeadando.eleshu.hu/;579;0;299;
+1,73E+12;630;HTTP;Request;200;OK;Thread;Group;1-38;text;false;The operation lasted too long: It took 630 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;60;60;https://ptibeadando.eleshu.hu/;630;0;329
+1,73E+12;536;HTTP;Request;200;OK;Thread;Group;1-47;text;true;1197;126;59;59;https://ptibeadando.eleshu.hu/;536;0;264;
+1,73E+12;574;HTTP;Request;200;OK;Thread;Group;1-46;text;true;1197;126;58;58;https://ptibeadando.eleshu.hu/;574;0;265;
+1,73E+12;529;HTTP;Request;200;OK;Thread;Group;1-56;text;true;1197;126;57;57;https://ptibeadando.eleshu.hu/;528;0;250;
+1,73E+12;651;HTTP;Request;200;OK;Thread;Group;1-45;text;false;The operation lasted too long: It took 651 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;56;56;https://ptibeadando.eleshu.hu/;651;0;418
+1,73E+12;488;HTTP;Request;200;OK;Thread;Group;1-63;text;true;1197;126;55;55;https://ptibeadando.eleshu.hu/;488;0;287;
+1,73E+12;579;HTTP;Request;200;OK;Thread;Group;1-59;text;true;1197;126;54;54;https://ptibeadando.eleshu.hu/;578;0;358;
+1,73E+12;555;HTTP;Request;200;OK;Thread;Group;1-62;text;true;1197;126;53;53;https://ptibeadando.eleshu.hu/;555;0;281;
+1,73E+12;785;HTTP;Request;200;OK;Thread;Group;1-39;text;false;The operation lasted too long: It took 785 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;52;52;https://ptibeadando.eleshu.hu/;785;0;521
+1,73E+12;742;HTTP;Request;200;OK;Thread;Group;1-44;text;false;The operation lasted too long: It took 742 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;51;51;https://ptibeadando.eleshu.hu/;742;0;425
+1,73E+12;752;HTTP;Request;200;OK;Thread;Group;1-43;text;false;The operation lasted too long: It took 752 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;50;50;https://ptibeadando.eleshu.hu/;752;0;435
+1,73E+12;668;HTTP;Request;200;OK;Thread;Group;1-52;text;false;The operation lasted too long: It took 668 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;49;49;https://ptibeadando.eleshu.hu/;668;0;291
+1,73E+12;660;HTTP;Request;200;OK;Thread;Group;1-53;text;false;The operation lasted too long: It took 660 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;48;48;https://ptibeadando.eleshu.hu/;660;0;255
+1,73E+12;619;HTTP;Request;200;OK;Thread;Group;1-54;text;false;The operation lasted too long: It took 619 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;47;47;https://ptibeadando.eleshu.hu/;619;0;268
+1,73E+12;619;HTTP;Request;200;OK;Thread;Group;1-55;text;false;The operation lasted too long: It took 619 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;46;46;https://ptibeadando.eleshu.hu/;619;0;180
+1,73E+12;765;HTTP;Request;200;OK;Thread;Group;1-42;text;false;The operation lasted too long: It took 765 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;45;45;https://ptibeadando.eleshu.hu/;765;0;349
+1,73E+12;627;HTTP;Request;200;OK;Thread;Group;1-57;text;false;The operation lasted too long: It took 627 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;44;44;https://ptibeadando.eleshu.hu/;627;0;205
+1,73E+12;683;HTTP;Request;200;OK;Thread;Group;1-51;text;false;The operation lasted too long: It took 683 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;43;43;https://ptibeadando.eleshu.hu/;683;0;293
+1,73E+12;689;HTTP;Request;200;OK;Thread;Group;1-50;text;false;The operation lasted too long: It took 689 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;42;42;https://ptibeadando.eleshu.hu/;689;0;205
+1,73E+12;807;HTTP;Request;200;OK;Thread;Group;1-40;text;false;The operation lasted too long: It took 807 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;41;41;https://ptibeadando.eleshu.hu/;807;0;295
+1,73E+12;603;HTTP;Request;200;OK;Thread;Group;1-61;text;false;The operation lasted too long: It took 603 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;41;41;https://ptibeadando.eleshu.hu/;603;0;291
+1,73E+12;629;HTTP;Request;200;OK;Thread;Group;1-60;text;false;The operation lasted too long: It took 629 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;40;40;https://ptibeadando.eleshu.hu/;629;0;332
+1,73E+12;495;HTTP;Request;200;OK;Thread;Group;1-73;text;true;1197;126;39;39;https://ptibeadando.eleshu.hu/;495;0;339;
+1,73E+12;429;HTTP;Request;200;OK;Thread;Group;1-81;text;true;1197;126;39;39;https://ptibeadando.eleshu.hu/;429;0;271;
+1,73E+12;694;HTTP;Request;200;OK;Thread;Group;1-65;text;false;The operation lasted too long: It took 694 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;37;37;https://ptibeadando.eleshu.hu/;694;0;377
+1,73E+12;575;HTTP;Request;200;OK;Thread;Group;1-77;text;true;1197;126;36;36;https://ptibeadando.eleshu.hu/;575;0;261;
+1,73E+12;781;HTTP;Request;200;OK;Thread;Group;1-58;text;false;The operation lasted too long: It took 781 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;35;35;https://ptibeadando.eleshu.hu/;781;0;439
+1,73E+12;680;HTTP;Request;200;OK;Thread;Group;1-68;text;false;The operation lasted too long: It took 680 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;34;34;https://ptibeadando.eleshu.hu/;680;0;294
+1,73E+12;649;HTTP;Request;200;OK;Thread;Group;1-72;text;false;The operation lasted too long: It took 649 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;33;33;https://ptibeadando.eleshu.hu/;649;0;300
+1,73E+12;648;HTTP;Request;200;OK;Thread;Group;1-64;text;false;The operation lasted too long: It took 648 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;32;32;https://ptibeadando.eleshu.hu/;648;0;261
+1,73E+12;700;HTTP;Request;200;OK;Thread;Group;1-67;text;false;The operation lasted too long: It took 700 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;31;31;https://ptibeadando.eleshu.hu/;700;0;315
+1,73E+12;622;HTTP;Request;200;OK;Thread;Group;1-74;text;false;The operation lasted too long: It took 622 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;30;30;https://ptibeadando.eleshu.hu/;622;0;298
+1,73E+12;496;HTTP;Request;200;OK;Thread;Group;1-80;text;true;1197;126;29;29;https://ptibeadando.eleshu.hu/;496;0;273;
+1,73E+12;501;HTTP;Request;200;OK;Thread;Group;1-70;text;true;1197;126;28;28;https://ptibeadando.eleshu.hu/;501;0;256;
+1,73E+12;660;HTTP;Request;200;OK;Thread;Group;1-71;text;false;The operation lasted too long: It took 660 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;27;27;https://ptibeadando.eleshu.hu/;660;0;299
+1,73E+12;590;HTTP;Request;200;OK;Thread;Group;1-79;text;true;1197;126;26;26;https://ptibeadando.eleshu.hu/;590;0;418;
+1,73E+12;538;HTTP;Request;200;OK;Thread;Group;1-86;text;true;1197;126;25;25;https://ptibeadando.eleshu.hu/;538;0;307;
+1,73E+12;541;HTTP;Request;200;OK;Thread;Group;1-85;text;true;1197;126;24;24;https://ptibeadando.eleshu.hu/;541;0;307;
+1,73E+12;543;HTTP;Request;200;OK;Thread;Group;1-69;text;true;1197;126;23;23;https://ptibeadando.eleshu.hu/;543;0;272;
+1,73E+12;538;HTTP;Request;200;OK;Thread;Group;1-78;text;true;1197;126;23;23;https://ptibeadando.eleshu.hu/;538;0;279;
+1,73E+12;544;HTTP;Request;200;OK;Thread;Group;1-75;text;true;1197;126;21;21;https://ptibeadando.eleshu.hu/;544;0;292;
+1,73E+12;605;HTTP;Request;200;OK;Thread;Group;1-82;text;false;The operation lasted too long: It took 605 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;20;20;https://ptibeadando.eleshu.hu/;605;0;294
+1,73E+12;479;HTTP;Request;200;OK;Thread;Group;1-90;text;true;1197;126;19;19;https://ptibeadando.eleshu.hu/;479;0;352;
+1,73E+12;488;HTTP;Request;200;OK;Thread;Group;1-89;text;true;1197;126;18;18;https://ptibeadando.eleshu.hu/;488;0;351;
+1,73E+12;454;HTTP;Request;200;OK;Thread;Group;1-97;text;true;1197;126;17;17;https://ptibeadando.eleshu.hu/;454;0;309;
+1,73E+12;524;HTTP;Request;200;OK;Thread;Group;1-91;text;true;1197;126;16;16;https://ptibeadando.eleshu.hu/;524;0;356;
+1,73E+12;505;HTTP;Request;200;OK;Thread;Group;1-93;text;true;1197;126;16;16;https://ptibeadando.eleshu.hu/;505;0;351;
+1,73E+12;526;HTTP;Request;200;OK;Thread;Group;1-92;text;true;1197;126;14;14;https://ptibeadando.eleshu.hu/;526;0;350;
+1,73E+12;462;HTTP;Request;200;OK;Thread;Group;1-96;text;true;1197;126;13;13;https://ptibeadando.eleshu.hu/;462;0;345;
+1,73E+12;446;HTTP;Request;200;OK;Thread;Group;1-100;text;true;1197;126;12;12;https://ptibeadando.eleshu.hu/;445;0;237;
+1,73E+12;462;HTTP;Request;200;OK;Thread;Group;1-98;text;true;1197;126;12;12;https://ptibeadando.eleshu.hu/;462;0;328;
+1,73E+12;462;HTTP;Request;200;OK;Thread;Group;1-99;text;true;1197;126;10;10;https://ptibeadando.eleshu.hu/;462;0;352;
+1,73E+12;670;HTTP;Request;200;OK;Thread;Group;1-76;text;false;The operation lasted too long: It took 670 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;9;9;https://ptibeadando.eleshu.hu/;670;0;593
+1,73E+12;635;HTTP;Request;200;OK;Thread;Group;1-66;text;false;The operation lasted too long: It took 635 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;8;8;https://ptibeadando.eleshu.hu/;635;0;405
+1,73E+12;579;HTTP;Request;200;OK;Thread;Group;1-83;text;true;1197;126;7;7;https://ptibeadando.eleshu.hu/;579;0;477;
+1,73E+12;443;HTTP;Request;200;OK;Thread;Group;1-94;text;true;1197;126;6;6;https://ptibeadando.eleshu.hu/;443;0;350;
+1,73E+12;624;HTTP;Request;200;OK;Thread;Group;1-84;text;false;The operation lasted too long: It took 624 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;6;6;https://ptibeadando.eleshu.hu/;623;0;539
+1,73E+12;577;HTTP;Request;200;OK;Thread;Group;1-88;text;true;1197;126;4;4;https://ptibeadando.eleshu.hu/;577;0;508;
+1,73E+12;580;HTTP;Request;200;OK;Thread;Group;1-87;text;true;1197;126;3;3;https://ptibeadando.eleshu.hu/;580;0;512;
+1,73E+12;1319;HTTP;Request;200;OK;Thread;Group;15.jan;text;false;The operation lasted too long: It took 1,319 milliseconds, but should not have lasted longer than 600 milliseconds.;1197;126;2;2;https://ptibeadando.eleshu.hu/;1319;0;500
+1,73E+12;318;HTTP;Request;200;OK;Thread;Group;1-95;text;true;1197;126;1;1;https://ptibeadando.eleshu.hu/;318;0;250;
