@@ -1,0 +1,4 @@
+timeStamp;elapsed;label;responseCode;responseMessage;threadName;dataType;success;failureMessage;bytes;sentBytes;grpThreads;allThreads;URL;Latency;IdleTime;Connect;;
+1732221839776;292;HTTP;Request;200;OK;Thread;Group;01.jan;text;true;1197;126;1;1;https://ptibeadando.eleshu.hu/;292;0;220
+1732221840139;333;HTTP;Request;200;OK;Thread;Group;02.jan;text;true;1197;126;3;3;https://ptibeadando.eleshu.hu/;333;0;257
+1732221840488;230;HTTP;Request;200;OK;Thread;Group;03.jan;text;true;1197;126;1;1;https://ptibeadando.eleshu.hu/;230;0;165
