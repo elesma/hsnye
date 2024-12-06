@@ -1,8 +1,13 @@
-package Webshop;
+package hs.productOrder;
+
 import java.util.List;
 
-public class Order { /** Tárolja a rendelés azonosítóját, tételeit és az összeget **/
-    private Long orderId;
+/**
+ * Tárolja a rendelés azonosítóját, tételeit és az összeget
+ */
+
+public class Order {
+private Long orderId;
     private List<CartItem> items;
     private double totalAmount;
 
@@ -45,4 +50,3 @@ public class Order { /** Tárolja a rendelés azonosítóját, tételeit és az 
         this.totalAmount = totalAmount;
     }
 }
-

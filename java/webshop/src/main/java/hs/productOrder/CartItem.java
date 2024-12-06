@@ -1,13 +1,16 @@
-package Webshop;
+package hs.productOrder;
+
+
+import hs.store.Product;
 
 public class CartItem { /** A kosárban található terméket és mennyiségét kezeli **/
-    private Product product; /** A kosár tételének mennyisége **/
-    private int quantity; /** A tétel mennyiségét tárolja **/
+private Product product; /** A kosár tételének mennyisége **/
+private int quantity; /** A tétel mennyiségét tárolja **/
 
-    public CartItem(Product product, int quantity) {
-        this.product = product;
-        this.quantity = quantity;
-    }
+public CartItem(Product product, int quantity) {
+    this.product = product;
+    this.quantity = quantity;
+}
 
     /** Getter és setter metódus a termék eléréséhez és beállításához **/
     public Product getProduct() {
